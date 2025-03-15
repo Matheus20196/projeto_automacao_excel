@@ -13,7 +13,3 @@ def abre_excel():
     pg.press('Enter')
 
 
-
-
-
-abre_excel()
