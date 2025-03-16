@@ -4,9 +4,6 @@ import função_abre_excel as fae
 def main(page: ft.Page):
     page.title = "Abre o excel"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
-    page.window_width = 300
-    page.window_height = 400
-    page.window_resizable = False
     
 
 
